@@ -11,7 +11,7 @@ variable "docdb_instance_class" {
 }
 
 variable "docdb_password" {
-    default = "9002nx624"
+    default = "xxxxxxx"
 }
 
 
