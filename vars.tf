@@ -16,11 +16,11 @@ variable "docdb_password" {
 
 
 variable "ak" {
-    default = "AKIARYXMILK7DKOHSFEP"
+    default = "AKIARYXMILK7DKOHXGE"
 }
 
 variable "sk" {
-    default = "BpYNjH/eYK4unFouijzSQpPf1zHFnwebmsYUZ8+i"
+    default = "BpYNjH/eYK4unFouijzSQpPf1zHFnwhgaosd+i"
 }
 # optional
 
